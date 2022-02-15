@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c219bbba-ab75-40ce-8173-7592bd89f5a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JupyterTrust" id="a19c3a92-b585-4d45-a9c3-848d04e8562d" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20ZQRUC3ywGEX5viaV4RtUoQu8a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.17011495" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.protobuf_interpreter">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Python" type="PythonConfigurationType" factoryName="Python">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:/Python37-32/python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="excel_to_protobuf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excel_to_protobuf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="protobuf_interpreter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/protobuf_interpreter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Python" />
+      <item itemvalue="Python.excel_to_protobuf" />
+      <item itemvalue="Python.protobuf_interpreter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.protobuf_interpreter" />
+        <item itemvalue="Python.excel_to_protobuf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c219bbba-ab75-40ce-8173-7592bd89f5a1" name="Default Changelist" comment="" />
+      <created>1636249622603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636249622603</updated>
+      <workItem from="1636249624143" duration="193000" />
+      <workItem from="1636249854675" duration="1222000" />
+      <workItem from="1636251094433" duration="9913000" />
+      <workItem from="1636887022704" duration="7005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="130" key="#Project_Structure" timestamp="1636249690032">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="505" y="130" key="#Project_Structure/2560.162.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1636249690032" />
+    <state x="479" y="211" width="1089" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1636251459763">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="479" y="211" width="1089" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.162.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1636251459763" />
+    <state x="943" y="271" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1636251186608">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="943" y="271" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/2560.162.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1636251186608" />
+    <state width="1264" height="462" key="DebuggerActiveHint" timestamp="1636262237607">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1264" height="462" key="DebuggerActiveHint/2560.162.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1636262237607" />
+    <state x="1204" y="486" key="FileChooserDialogImpl" timestamp="1636251309973">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1204" y="486" key="FileChooserDialogImpl/2560.162.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1636251309973" />
+    <state width="2004" height="247" key="GridCell.Tab.0.bottom" timestamp="1636893219641">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2004" height="247" key="GridCell.Tab.0.bottom/2560.162.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1636893219641" />
+    <state width="2004" height="247" key="GridCell.Tab.0.center" timestamp="1636893219641">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2004" height="247" key="GridCell.Tab.0.center/2560.162.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1636893219641" />
+    <state width="2004" height="247" key="GridCell.Tab.0.left" timestamp="1636893219641">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2004" height="247" key="GridCell.Tab.0.left/2560.162.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1636893219641" />
+    <state width="2004" height="247" key="GridCell.Tab.0.right" timestamp="1636893219641">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2004" height="247" key="GridCell.Tab.0.right/2560.162.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1636893219641" />
+    <state width="2004" height="247" key="GridCell.Tab.1.bottom" timestamp="1636893219567">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2004" height="247" key="GridCell.Tab.1.bottom/2560.162.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1636893219567" />
+    <state width="2004" height="247" key="GridCell.Tab.1.center" timestamp="1636893219567">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2004" height="247" key="GridCell.Tab.1.center/2560.162.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1636893219567" />
+    <state width="2004" height="247" key="GridCell.Tab.1.left" timestamp="1636893219566">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2004" height="247" key="GridCell.Tab.1.left/2560.162.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1636893219566" />
+    <state width="2004" height="247" key="GridCell.Tab.1.right" timestamp="1636893219567">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2004" height="247" key="GridCell.Tab.1.right/2560.162.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1636893219567" />
+    <state x="447" y="135" width="1331" height="851" key="SettingsEditor" timestamp="1636251245667">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="447" y="135" width="1331" height="851" key="SettingsEditor/2560.162.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1636251245667" />
+    <state x="723" y="288" width="602" height="536" key="find.popup" timestamp="1636261872196">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="723" y="288" width="602" height="536" key="find.popup/2560.162.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1636261872196" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="sheet.name" language="Python" />
+        <watch expression="getattr(self._module, sheet.name + '_Data')()" language="Python" />
+        <watch expression="self._item_list.add()" language="Python" />
+        <watch expression="self._workbook_data_root[sheet.name].SerializeToString()" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python$protobuf_interpreter.coverage" NAME="protobuf_interpreter Coverage Results" MODIFIED="1636893219545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$Python.coverage" NAME="Python Coverage Results" MODIFIED="1636251448721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/python$excel_to_protobuf.coverage" NAME="excel_to_protobuf Coverage Results" MODIFIED="1636891564404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
