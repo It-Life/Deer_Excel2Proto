@@ -18,8 +18,8 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   name='Sounds_Config.proto',
   package='ConfigData',
   syntax='proto3',
-  serialized_options=_b('\n#com.game.juhe.server.protobuf.proto'),
-  serialized_pb=_b('\n\x13Sounds_Config.proto\x12\nConfigData\"\x94\x01\n\rSounds_Config\x12\n\n\x02id\x18\x01 \x01(\r\x12\x12\n\nsound_name\x18\x02 \x01(\t\x12\x16\n\x0esound_priority\x18\x03 \x01(\t\x12\x14\n\x0csound_volume\x18\x04 \x01(\x02\x12\x0c\n\x04loop\x18\x05 \x01(\r\x12\x15\n\rspatial_blend\x18\x06 \x01(\r\x12\x10\n\x08\x64istance\x18\x07 \x01(\x02\">\n\x12Sounds_Config_Data\x12(\n\x05items\x18\x01 \x03(\x0b\x32\x19.ConfigData.Sounds_ConfigB%\n#com.game.juhe.server.protobuf.protob\x06proto3')
+  serialized_options=_b('\n\036com.deer.server.protobuf.proto'),
+  serialized_pb=_b('\n\x13Sounds_Config.proto\x12\nConfigData\"\x94\x01\n\rSounds_Config\x12\n\n\x02id\x18\x01 \x01(\r\x12\x12\n\nsound_name\x18\x02 \x01(\t\x12\x16\n\x0esound_priority\x18\x03 \x01(\t\x12\x14\n\x0csound_volume\x18\x04 \x01(\x02\x12\x0c\n\x04loop\x18\x05 \x01(\r\x12\x15\n\rspatial_blend\x18\x06 \x01(\r\x12\x10\n\x08\x64istance\x18\x07 \x01(\x02\">\n\x12Sounds_Config_Data\x12(\n\x05items\x18\x01 \x03(\x0b\x32\x19.ConfigData.Sounds_ConfigB \n\x1e\x63om.deer.server.protobuf.protob\x06proto3')
 )
 
 

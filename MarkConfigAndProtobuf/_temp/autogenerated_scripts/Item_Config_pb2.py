@@ -18,8 +18,8 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   name='Item_Config.proto',
   package='ConfigData',
   syntax='proto3',
-  serialized_options=_b('\n#com.game.juhe.server.protobuf.proto'),
-  serialized_pb=_b('\n\x11Item_Config.proto\x12\nConfigData\"{\n\x0bItem_Config\x12\n\n\x02id\x18\x01 \x01(\r\x12\x11\n\titem_name\x18\x02 \x01(\t\x12\x11\n\titem_icon\x18\x03 \x01(\t\x12\x10\n\x08item_qua\x18\x04 \x01(\r\x12\x11\n\titem_type\x18\x05 \x01(\r\x12\x15\n\ritem_pile_num\x18\x06 \x01(\r\":\n\x10Item_Config_Data\x12&\n\x05items\x18\x01 \x03(\x0b\x32\x17.ConfigData.Item_ConfigB%\n#com.game.juhe.server.protobuf.protob\x06proto3')
+  serialized_options=_b('\n\036com.deer.server.protobuf.proto'),
+  serialized_pb=_b('\n\x11Item_Config.proto\x12\nConfigData\"{\n\x0bItem_Config\x12\n\n\x02id\x18\x01 \x01(\r\x12\x11\n\titem_name\x18\x02 \x01(\t\x12\x11\n\titem_icon\x18\x03 \x01(\t\x12\x10\n\x08item_qua\x18\x04 \x01(\r\x12\x11\n\titem_type\x18\x05 \x01(\r\x12\x15\n\ritem_pile_num\x18\x06 \x01(\r\":\n\x10Item_Config_Data\x12&\n\x05items\x18\x01 \x03(\x0b\x32\x17.ConfigData.Item_ConfigB \n\x1e\x63om.deer.server.protobuf.protob\x06proto3')
 )
 
 

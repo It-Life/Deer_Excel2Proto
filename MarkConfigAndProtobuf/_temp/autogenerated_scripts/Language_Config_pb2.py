@@ -18,8 +18,8 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   name='Language_Config.proto',
   package='ConfigData',
   syntax='proto3',
-  serialized_options=_b('\n#com.game.juhe.server.protobuf.proto'),
-  serialized_pb=_b('\n\x15Language_Config.proto\x12\nConfigData\"@\n\x0fLanguage_Config\x12\n\n\x02id\x18\x01 \x01(\r\x12\x0f\n\x07\x65nglish\x18\x03 \x01(\t\x12\x10\n\x08schinese\x18\x04 \x01(\t\"B\n\x14Language_Config_Data\x12*\n\x05items\x18\x01 \x03(\x0b\x32\x1b.ConfigData.Language_ConfigB%\n#com.game.juhe.server.protobuf.protob\x06proto3')
+  serialized_options=_b('\n\036com.deer.server.protobuf.proto'),
+  serialized_pb=_b('\n\x15Language_Config.proto\x12\nConfigData\"@\n\x0fLanguage_Config\x12\n\n\x02id\x18\x01 \x01(\r\x12\x0f\n\x07\x65nglish\x18\x03 \x01(\t\x12\x10\n\x08schinese\x18\x04 \x01(\t\"B\n\x14Language_Config_Data\x12*\n\x05items\x18\x01 \x03(\x0b\x32\x1b.ConfigData.Language_ConfigB \n\x1e\x63om.deer.server.protobuf.protob\x06proto3')
 )
 
 

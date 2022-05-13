@@ -93,8 +93,7 @@ namespace ConfigData {
             "EhEKCW1hdGVyaWFscxgFIAMoDRITCgtsZXZlbF9saW1pdBgGIAEoBRISCgpy",
             "YW5rX2xpbWl0GAcgASgFIkgKF1NraWxsX0xldmVsX0NvbmZpZ19EYXRhEi0K",
             "BWl0ZW1zGAEgAygLMh4uQ29uZmlnRGF0YS5Ta2lsbF9MZXZlbF9Db25maWdC",
-            "JQojY29tLmdhbWUuanVoZS5zZXJ2ZXIucHJvdG9idWYucHJvdG9iBnByb3Rv",
-            "Mw=="));
+            "IAoeY29tLmRlZXIuc2VydmVyLnByb3RvYnVmLnByb3RvYgZwcm90bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(null, new pbr::GeneratedClrTypeInfo[] {

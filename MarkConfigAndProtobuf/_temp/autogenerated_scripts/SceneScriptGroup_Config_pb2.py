@@ -18,8 +18,8 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   name='SceneScriptGroup_Config.proto',
   package='ConfigData',
   syntax='proto3',
-  serialized_options=_b('\n#com.game.juhe.server.protobuf.proto'),
-  serialized_pb=_b('\n\x1dSceneScriptGroup_Config.proto\x12\nConfigData\"J\n\x17SceneScriptGroup_Config\x12\n\n\x02id\x18\x01 \x01(\r\x12\x13\n\x0bscript_name\x18\x02 \x01(\t\x12\x0e\n\x06remark\x18\x03 \x01(\t\"R\n\x1cSceneScriptGroup_Config_Data\x12\x32\n\x05items\x18\x01 \x03(\x0b\x32#.ConfigData.SceneScriptGroup_ConfigB%\n#com.game.juhe.server.protobuf.protob\x06proto3')
+  serialized_options=_b('\n\036com.deer.server.protobuf.proto'),
+  serialized_pb=_b('\n\x1dSceneScriptGroup_Config.proto\x12\nConfigData\"J\n\x17SceneScriptGroup_Config\x12\n\n\x02id\x18\x01 \x01(\r\x12\x13\n\x0bscript_name\x18\x02 \x01(\t\x12\x0e\n\x06remark\x18\x03 \x01(\t\"R\n\x1cSceneScriptGroup_Config_Data\x12\x32\n\x05items\x18\x01 \x03(\x0b\x32#.ConfigData.SceneScriptGroup_ConfigB \n\x1e\x63om.deer.server.protobuf.protob\x06proto3')
 )
 
 

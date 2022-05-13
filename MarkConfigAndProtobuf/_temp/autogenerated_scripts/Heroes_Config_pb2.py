@@ -18,8 +18,8 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   name='Heroes_Config.proto',
   package='ConfigData',
   syntax='proto3',
-  serialized_options=_b('\n#com.game.juhe.server.protobuf.proto'),
-  serialized_pb=_b('\n\x13Heroes_Config.proto\x12\nConfigData\"k\n\rHeroes_Config\x12\n\n\x02id\x18\x01 \x01(\r\x12\x0c\n\x04name\x18\x02 \x01(\t\x12\x0f\n\x07hero_id\x18\x03 \x01(\r\x12\x15\n\rinit_position\x18\x04 \x03(\t\x12\x18\n\x10hero_prefab_path\x18\x05 \x01(\t\">\n\x12Heroes_Config_Data\x12(\n\x05items\x18\x01 \x03(\x0b\x32\x19.ConfigData.Heroes_ConfigB%\n#com.game.juhe.server.protobuf.protob\x06proto3')
+  serialized_options=_b('\n\036com.deer.server.protobuf.proto'),
+  serialized_pb=_b('\n\x13Heroes_Config.proto\x12\nConfigData\"k\n\rHeroes_Config\x12\n\n\x02id\x18\x01 \x01(\r\x12\x0c\n\x04name\x18\x02 \x01(\t\x12\x0f\n\x07hero_id\x18\x03 \x01(\r\x12\x15\n\rinit_position\x18\x04 \x03(\t\x12\x18\n\x10hero_prefab_path\x18\x05 \x01(\t\">\n\x12Heroes_Config_Data\x12(\n\x05items\x18\x01 \x03(\x0b\x32\x19.ConfigData.Heroes_ConfigB \n\x1e\x63om.deer.server.protobuf.protob\x06proto3')
 )
 
 

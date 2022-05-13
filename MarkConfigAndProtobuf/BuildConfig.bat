@@ -4,7 +4,7 @@ cd /d %~dp0
 set ROOT_PATH=%~dp0
 
 set NAMESPACE=ConfigData
-set PACKAGE_NAME=com.game.juhe.server.protobuf.proto
+set PACKAGE_NAME=com.deer.server.protobuf.proto
 
 set EXCLE_PAHT=%ROOT_PATH%..\ConfigFiles(excel)
 set DATA_OUTPUT=%ROOT_PATH%client\data
