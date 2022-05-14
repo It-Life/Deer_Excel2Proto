@@ -19,6 +19,9 @@ set SERVER_LANGUGE=java
 rem build script and data
 python %ROOT_PATH%..\Excel2Protobuf\src\python\excel_to_protobuf.py -i %EXCLE_PAHT% -n %NAMESPACE% -d %DATA_OUTPUT% -c %CSHARP_OUTPUT% -s %SERVER_OUTPUT% -l %SERVER_LANGUGE% -p %PACKAGE_NAME%
 rem copy to server work folder
+
+del %DATA_OUTPUT%\template.bin
+
 xcopy /s/y/i "%DATA_OUTPUT%\*.bin" "%SERVER_DATAPATH%" 
 
 xcopy /s/y/i "%TEMP_PROTOFILE%\*.proto" "%SERVER_PROTOFILE%"
